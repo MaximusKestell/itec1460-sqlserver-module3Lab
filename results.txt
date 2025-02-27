@@ -1,0 +1,2 @@
+The total ammount for Order 10248 is $440.00
+Returned total ammount: $440.00
